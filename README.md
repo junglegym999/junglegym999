@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **junglegym999/junglegym999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-# 안녕하세요! 👋 저는 DB 전문가를 꿈꾸는 박지수 입니다.
+# 안녕하세요! 👋 
+저는 DB 전문가를 꿈꾸는 박지수 입니다.
 
 ## 소개
 
