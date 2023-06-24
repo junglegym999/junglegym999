@@ -32,8 +32,9 @@ DB에 관심이 많은 백엔드 개발자 입니다.
 - 데이터베이스: Tmax Tibero
 - 기타: Git, Jira
 
-- [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](https://www.java.com)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](https://www.java.com)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Tibero](https://img.shields.io/badge/Tibero-%230099FF.svg?style=flat&logo=tibero&logoColor=white)](https://www.tmaxsoft.com/products/tibero)
 [![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com)
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com)
