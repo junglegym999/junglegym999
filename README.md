@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 # 안녕하세요! 👋 
-저는 DB 전문가를 꿈꾸는 백엔드 개발자 박지수 입니다.
+DB 전문가를 꿈꾸는 백엔드 개발자 박지수 입니다.
 
 ## 소개
 
