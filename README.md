@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 
 
 # 안녕하세요! 👋 
-저는 DB 전문가를 꿈꾸는 박지수 입니다.
+저는 DB 전문가를 꿈꾸는 백엔드 개발자 박지수 입니다.
 
 ## 소개
 
-DB에 관심이 많은 백엔드 개발자 입니다.
 - 🔭 I’m currently working on ... 웹서비스와 DB
 - 🌱 I’m currently learning ... Tibero DBMS
 
@@ -43,21 +42,22 @@ DB에 관심이 많은 백엔드 개발자 입니다.
 
 ### chatGPT를 이용한 자동 계획 생성 챗봇서비스, IROOMI
 
-[프로젝트에 대한 간단한 설명]
+https://velog.io/@junglegym999/chatGPT를-활용한-챗봇서비스-만들기React-Springboot-Tibero-DBMS
 
-- GitHub 링크: [프로젝트 GitHub 링크]
-- 기술 스택: [사용된 기술 스택]
+- GitHub 링크: https://github.com/TABAchatbot/IROOMI_springboot
+- 기술 스택:
+  프론트엔드 : React
+  백엔드 : Springboot + maven + mybatis
+  DBMS : Tibero
+
 
 ### 반려동물 플랫폼, 뭉냥뭉냥
 
-[프로젝트에 대한 간단한 설명]
-
-- GitHub 링크: [프로젝트 GitHub 링크]
-- 기술 스택: [사용된 기술 스택]
+- GitHub 링크: https://github.com/greenteamtest
+- 기술 스택: java, Oracle
 
 ## 연락하기
 
 - 이메일: Parktest007@gmail.com
-- 블로그: [블로그 주소]
-- LinkedIn: [LinkedIn 프로필 링크]
+- 블로그: https://velog.io/@junglegym999
 
