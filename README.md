@@ -45,10 +45,10 @@ DB 전문가를 꿈꾸는 백엔드 개발자 박지수 입니다.
 https://velog.io/@junglegym999/chatGPT를-활용한-챗봇서비스-만들기React-Springboot-Tibero-DBMS
 
 - GitHub 링크: https://github.com/TABAchatbot/IROOMI_springboot
-- 기술 스택:
-  프론트엔드 : React
-  백엔드 : Springboot + maven + mybatis
-  DBMS : Tibero
+- 기술 스택 :
+  - 프론트엔드 : React
+  - 백엔드 : Springboot + maven + mybatis
+  - DBMS : Tibero
 
 
 ### 반려동물 플랫폼, 뭉냥뭉냥
@@ -58,6 +58,6 @@ https://velog.io/@junglegym999/chatGPT를-활용한-챗봇서비스-만들기Rea
 
 ## 연락하기
 
-- 이메일: Parktest007@gmail.com
+- 이메일: junglegym999@gmail.com
 - 블로그: https://velog.io/@junglegym999
 
