@@ -43,7 +43,7 @@ DB 전문가를 꿈꾸는 백엔드 개발자 박지수 입니다.
 ### chatGPT를 이용한 진로계획 생성 챗봇서비스, IROOMI
 
 [![Video Label](http://img.youtube.com/vi/ufxV62gXgKs/0.jpg)](https://youtu.be/ufxV62gXgKs)
-
+- 클릭하면 시연영상을 보실 수 있습니다!
 
 - 프로젝트 자세한 설명 :
 https://velog.io/@junglegym999/chatGPT를-활용한-챗봇서비스-만들기React-Springboot-Tibero-DBMS
